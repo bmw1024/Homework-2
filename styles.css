@@ -1,0 +1,15 @@
+table,  td {
+    border: 1px solid black;
+}
+th {
+    border: 1px solid black;
+    background: black;
+    color: white;
+     text-align: left;
+}
+a {
+  font-size: 64px;
+  color: blue;
+text-decoration: underline;
+ text-transform: uppercase;
+}
